@@ -9,14 +9,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
+banner-title: Jade Caron
+banner-desc: Bienvenue sur mon site Web
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name: # your name
-about-author: # about author
-email: your-email@domain.com # your email
+author-name: Jade Caron
+about-author: Je m'appelle Jade Caron, j'ai réalisé un BTS Management en Hôtellerie-Restauration (MHR). 
+  Passionnée par la cuisine, et plus particulièrement par la pâtisserie, je suis reconnue pour mon sens du détail et ma minutie.
+email: jadecaron881@gmail.com # your email
 phone: (496)-169-6557 # your pnone number
 website: https://dwayne.example.com # you website
 
