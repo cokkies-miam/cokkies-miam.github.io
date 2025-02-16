@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Je m'appelle Jade Caron, j'ai réalisé un BTS Management en Hôtellerie-Restauration (MHR). 
   Passionnée par la cuisine, et plus particulièrement par la pâtisserie, je suis reconnue pour mon sens du détail et ma minutie.
 permalink: ':title/'
-baseurl: "/jade_caron" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
